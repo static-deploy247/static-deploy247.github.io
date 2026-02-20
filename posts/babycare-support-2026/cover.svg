@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">2026 아기돌봄 지원 정책</title>
+  <desc id="desc">2026 아기돌봄 지원 정책</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1b3d" />
+      <stop offset="100%" stop-color="#1f4c7a" />
+    </linearGradient>
+    <linearGradient id="halo" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.2)" />
+      <stop offset="100%" stop-color="rgba(255,255,255,0)" />
+    </linearGradient>
+  </defs>
+  <style>
+    .title { font: 800 78px 'Pretendard', 'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif; fill: #ffffff; letter-spacing: -0.02em; }
+    .subtitle { font: 500 34px 'Pretendard', 'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif; fill: rgba(255,255,255,0.92); letter-spacing: -0.02em; }
+  </style>
+  <rect width="1280" height="720" rx="32" fill="url(#bg)" />
+  <circle cx="1216" cy="86" r="216" fill="rgba(255,255,255,0.08)" />
+  <circle cx="77" cy="648" r="173" fill="rgba(255,255,255,0.06)" />
+  <rect x="64" y="547" width="794" height="8" rx="4" fill="url(#halo)" />
+  <text x="80" y="331" class="title">2026 아기돌봄 지원 정책</text>
+  
+</svg>
+
