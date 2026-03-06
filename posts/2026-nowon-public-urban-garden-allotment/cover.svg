@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">노원구 도시텃밭 분양 총정리</title>
+  <desc id="desc">신청기간·가격 한눈에</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1b3d"/>
+      <stop offset="100%" stop-color="#1f4c7a"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .title { font: 800 84px 'Pretendard','Noto Sans KR','Apple SD Gothic Neo',sans-serif; fill:#fff; letter-spacing:-0.02em; }
+    .sub { font: 500 34px 'Pretendard','Noto Sans KR','Apple SD Gothic Neo',sans-serif; fill:rgba(255,255,255,0.92); }
+  </style>
+  <rect width="1280" height="720" rx="32" fill="url(#bg)"/>
+  <text x="88" y="255" class="title">노원구</text>
+  <text x="88" y="370" class="title">도시텃밭</text>
+  <text x="88" y="485" class="title">분양 총정리</text>
+  <text x="88" y="575" class="sub">신청기간·가격 한눈에</text>
+</svg>
