@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">2026 종로구민 생활안전보험</title>
+  <desc id="desc">자동가입부터 청구까지</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0f1e46"/><stop offset="100%" stop-color="#315f9c"/></linearGradient></defs>
+  <rect width="1280" height="720" rx="28" fill="url(#bg)"/>
+  <g fill="#fff" font-family="Pretendard, Noto Sans KR, Apple SD Gothic Neo, sans-serif">
+    <text x="92" y="240" font-size="90" font-weight="800">2026</text>
+    <text x="92" y="355" font-size="90" font-weight="800">종로구민</text>
+    <text x="92" y="470" font-size="90" font-weight="800">생활안전보험</text>
+    <text x="92" y="585" font-size="36" font-weight="500" opacity="0.9">자동가입부터 청구까지</text>
+  </g>
+</svg>
