@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">강동 헤리티지 자이 청약 일정 총정리</title>
+  <desc id="desc">청약일 : 2026-04-13 ~ 2026-04-13</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1a3e"/>
+      <stop offset="100%" stop-color="#2d1b69"/>
+    </linearGradient>
+    <linearGradient id="building" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="rgba(139,92,246,0.08)"/>
+      <stop offset="100%" stop-color="rgba(139,92,246,0.25)"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .title { font: 800 78px 'Pretendard','Noto Sans KR','Apple SD Gothic Neo',sans-serif; fill: #ffffff; letter-spacing: -0.02em; }
+    .subtitle { font: 500 32px 'Pretendard','Noto Sans KR','Apple SD Gothic Neo',sans-serif; fill: rgba(255,255,255,0.82); }
+    .chip { font: 700 20px 'Pretendard',sans-serif; fill: #a78bfa; }
+  </style>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <!-- Building silhouettes -->
+  <g>
+    <circle cx="998" cy="403" r="230" fill="rgba(139,92,246,0.06)"/>
+    <rect x="819" y="281" width="102" height="439" rx="4" fill="url(#building)"/><rect x="841" y="334" width="29" height="20" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="875" y="334" width="29" height="20" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="841" y="397" width="29" height="20" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="875" y="397" width="29" height="20" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="841" y="460" width="29" height="20" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="875" y="460" width="29" height="20" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="841" y="523" width="29" height="20" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="875" y="523" width="29" height="20" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="841" y="586" width="29" height="20" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="875" y="586" width="29" height="20" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="841" y="649" width="29" height="20" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="875" y="649" width="29" height="20" rx="2" fill="rgba(167,139,250,0.2)"/>
+    <rect x="934" y="202" width="77" height="518" rx="4" fill="url(#building)"/><rect x="951" y="252.5" width="22" height="15" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="976" y="252.5" width="22" height="15" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="951" y="310.5" width="22" height="15" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="976" y="310.5" width="22" height="15" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="951" y="368.5" width="22" height="15" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="976" y="368.5" width="22" height="15" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="951" y="426.5" width="22" height="15" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="976" y="426.5" width="22" height="15" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="951" y="484.5" width="22" height="15" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="976" y="484.5" width="22" height="15" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="951" y="542.5" width="22" height="15" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="976" y="542.5" width="22" height="15" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="951" y="600.5" width="22" height="15" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="976" y="600.5" width="22" height="15" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="951" y="658.5" width="22" height="15" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="976" y="658.5" width="22" height="15" rx="2" fill="rgba(167,139,250,0.2)"/>
+    <rect x="1037" y="317" width="90" height="403" rx="4" fill="url(#building)"/><rect x="1057" y="375" width="25" height="18" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1087" y="375" width="25" height="18" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1057" y="442" width="25" height="18" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1087" y="442" width="25" height="18" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1057" y="509" width="25" height="18" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1087" y="509" width="25" height="18" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1057" y="576" width="25" height="18" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1087" y="576" width="25" height="18" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1057" y="643" width="25" height="18" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1087" y="643" width="25" height="18" rx="2" fill="rgba(167,139,250,0.2)"/>
+    <rect x="1152" y="158" width="64" height="562" rx="4" fill="url(#building)"/><rect x="1166" y="207.5" width="18" height="13" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1187" y="207.5" width="18" height="13" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1166" y="263.5" width="18" height="13" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1187" y="263.5" width="18" height="13" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1166" y="319.5" width="18" height="13" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1187" y="319.5" width="18" height="13" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1166" y="375.5" width="18" height="13" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1187" y="375.5" width="18" height="13" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1166" y="431.5" width="18" height="13" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1187" y="431.5" width="18" height="13" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1166" y="487.5" width="18" height="13" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1187" y="487.5" width="18" height="13" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1166" y="543.5" width="18" height="13" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1187" y="543.5" width="18" height="13" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1166" y="599.5" width="18" height="13" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1187" y="599.5" width="18" height="13" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1166" y="655.5" width="18" height="13" rx="2" fill="rgba(167,139,250,0.2)"/><rect x="1187" y="655.5" width="18" height="13" rx="2" fill="rgba(167,139,250,0.2)"/>
+  </g>
+  <!-- Tag -->
+  <rect x="80" y="173" width="72" height="36" rx="18" fill="rgba(167,139,250,0.15)" stroke="rgba(167,139,250,0.3)" stroke-width="1"/>
+  <text x="116" y="197" text-anchor="middle" class="chip">청약</text>
+  <!-- Title: apartment name -->
+  <text x="80" y="317" class="title">강동 헤리티지 자이</text>
+  <!-- Fixed line -->
+  <text x="80" y="411" class="title">청약 일정 총정리</text>
+  <!-- Subtitle -->
+  <text x="80" y="481" class="subtitle">청약일 : 2026-04-13 ~ 2026-04-13</text>
+  <!-- Accent line -->
+  <rect x="80" y="612" width="160" height="3" rx="1.5" fill="#a78bfa" opacity="0.5"/>
+</svg>
